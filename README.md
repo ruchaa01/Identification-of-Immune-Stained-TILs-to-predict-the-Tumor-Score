@@ -4,4 +4,7 @@ Tumour Infotrating Lymphocytes (TILs) are T-cells that have the ability to migra
 
 Initially, pathologists used to zoom in the slide of a tissue and count the actual number of TILs present in the tissue. However, this method led to a large amount of bias and errors due to fatigue, which resulted in declined efficiency.
 
-In order to avoid this, breast tissue slides stained with IHC are scanned and stored using OptraScan and using different techniques in Machinke Learning and Image Processing, this project is able to quantify the tumor positive and tumor negative score with an accuracy of 97.5%.
+In order to avoid this, breast tissue slides stained with IHC are scanned and stored using OptraScan and using different techniques in Machinke Learning and Image Processing, this project is able to quantify the tumor positive and tumor negative score with an accuracy of 98.6%.
+
+The overview of the project can be given by the following image:
+![](Image.PNG)
